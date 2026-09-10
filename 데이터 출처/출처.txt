@@ -1,0 +1,11 @@
+데이터 출처
+서울 열린데이터 광장
+서울시 자치구별 연료별 차종별 용도별 등록현황
+24년 3월~25년 3월
+https://data.seoul.go.kr/dataList/OA-15640/S/1/datasetView.do#
+
+
+한국석유공사 오피넷
+국내유가통계 > 주유소 평균판매가격(지역별) > 월간 
+서울 22년 1월~24년 12월
+https://www.opinet.co.kr/user/dopospdrg/dopOsPdrgAreaSelect.do
