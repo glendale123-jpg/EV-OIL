@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+.venv/
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.zip
+
+# Data folders
+car_data/
+oil_data/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
